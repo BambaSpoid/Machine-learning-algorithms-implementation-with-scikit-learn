@@ -1,7 +1,6 @@
-# Machine-learning-algorithms-implementation-with-scikit-learn
-Basic machine Learning algorithms and their implementation with scikit-learn
+## Machine-learning-algorithms-implementation-with-scikit-learn Basic machine Learning algorithms and their implementation with scikit-learn
 
-## Algorithms and corresponding databases
+# Algorithms and corresponding databases
 - linear_simple => Salary_Data
 - linear_regression_multiple => 50_Startups
 - Regression_polynomial => Position_Salaries
